@@ -6,7 +6,7 @@ Código da ferramenta robótica **TAAP**, destinada a introduzir o pensamento co
 
 ### Recursos
 - Construída com **Arduíno** e materiais de baixo custo
-- Ferramenta inovadora para ambientes educacionais com recursos limitados
+- Ferramenta para ambientes educacionais com recursos limitados
 
 ### Metodologia e Resultados
 - **Revisão da Literatura**: Estudo sobre robótica e pensamento computacional
