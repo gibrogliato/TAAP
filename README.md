@@ -17,4 +17,3 @@ Código da ferramenta robótica **TAAP**, destinada a introduzir o pensamento co
 ### Aplicações Futuras
 Este repositório encoraja a **colaboração** para o aprimoramento e a disseminação da ferramenta, expandindo seu impacto na educação tecnológica.
 
-![Badge](URL_DA_IMAGEM_DE_BADGE)
